@@ -5,12 +5,5 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   
-  	<modules>
-  		<module>../Hello</module>
-		<module>../HelloFriend</module>
-		<module>../MakeFriends</module>
-		<module>../JavaProject01</module>
-		<module>../JavaProject02</module>
-	</modules>
   
 </project>
